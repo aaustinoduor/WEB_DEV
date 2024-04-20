@@ -31,7 +31,7 @@ input {
 }
 
 #btn {
-    width: 50%;
+    width: 100%;
     color: rgb(50, 4, 253);
     box-shadow: 10px 10px 5px rgb(22, 248, 2);
     padding: 10px;
